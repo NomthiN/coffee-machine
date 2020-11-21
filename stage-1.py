@@ -1,2 +1,7 @@
-# begin by placing the cup in the machine
-# add your desired sugar amount
+print ("Starting to make a coffee
+Grinding coffee beans
+Boiling water
+Mixing boiled water with crushed coffee beans
+Pouring coffee into the cup
+Pouring some milk into the cup
+Coffee is ready!")
